@@ -4,7 +4,7 @@
     > Drupal
 
     > Magento (e-commerce)
-    
+
     > Prestashop (e-commerce)
 
 - Wordpress é o maior, melhor e tem uma quantidade enorme de plugins
@@ -18,16 +18,21 @@
 - Wordpress 5 (criador de blocos - gutenberg)
 
 - Ferramentas para desenvolvedores Wordpress:
-    > FileZilla;
-    > Putty;
-    > ColorZilla (extensão chrome);
-    > FontFace Ninja (externsão chrome);
-    > Notepad++;
-        > NppFTP (plugin);
-    > Wamp ou Xampp;
+    > FileZilla
+
+    > Putty
+
+    > ColorZilla (extensão chrome)
+
+    > FontFace Ninja (externsão chrome)
+
+    > Notepad++ [NppFTP (plugin)]
+
+    > Wamp ou Xampp
 
 - Preparação Ambiente WordPress:
     > Criação de e-mail;
+    
     > Criação do BD;
 
 - Instalação Remota (de maneira manual):
