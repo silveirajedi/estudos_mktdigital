@@ -14,7 +14,7 @@
 
 - Wordpress 5 (criador de blocos - gutenberg)
 
-- Ferramentas para desenvolvedores:
+- Ferramentas para desenvolvedores Wordpress:
     > FileZilla;
     > Putty;
     > ColorZilla (extensão chrome);
@@ -26,3 +26,6 @@
 - Preparação Ambiente WordPress:
     > Criação de e-mail;
     > Criação do BD;
+
+- Instalação Remota (de maneira manual):
+    > 
