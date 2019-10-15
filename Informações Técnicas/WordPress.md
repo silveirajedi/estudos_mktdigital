@@ -7,15 +7,35 @@
 
     > Prestashop (e-commerce)
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 - Wordpress é o maior, melhor e tem uma quantidade enorme de plugins
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 - Descobrir se o site usa WordPress ou outros serviços e plugins:
     > www.builtwith.com
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 - Ver os sites que usam WordPress pelo próprio site do wordpress:
     > https://wordpress.org/showcase/archives/
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 - Wordpress 5 (criador de blocos - gutenberg)
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 - Ferramentas para desenvolvedores Wordpress:
     > FileZilla
@@ -30,17 +50,62 @@
 
     > Wamp ou Xampp
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 - Preparação Ambiente WordPress:
     > Criação de e-mail;
 
     > Criação do BD;
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
 
 - Instalação Remota (manual):
     > enviar FTP a versão zip
 
     > entrar via putty e fazer a descompactação
 
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
 - Temas Importantes (set/2019):
-    > instalar o *Astra* e o astra child (baixar astra child generator a ativar ele)
+    > instalar o *Astra* e o *Astra child* (baixar astra child generator a ativar ele)
 
     > é importante sempre ativar o tema filho por conta de atualização
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+- Plugins Importantes (set/2019):
+    > Editor Clássico (colocar editor de blocos, e permitir que usuários alternem entre editores)
+
+    > Microthemer
+
+    > Gutenberg Blocks – Ultimate Addons for Gutenberg
+
+    > Astra Widgets
+
+    > Companion Auto Update
+
+    > EWWW Image Optimizer
+
+    > Plugin Google Analytics Dashboard para WordPress desenvolvido por MonsterInsights
+
+    > WordPress SEO Plugin – Rank Math
+
+    > Really Simple SSL
+
+    > UpdraftPlus WordPress Backup Plugin
+
+    > WP Mail SMTP by WPForms
+
+    > WP Super Cache
+
+    > Contact Form by WPForms – Drag & Drop Form Builder for WordPress
+
+    > WPS Hide Login
