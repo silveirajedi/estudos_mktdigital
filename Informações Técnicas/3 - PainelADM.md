@@ -1,5 +1,5 @@
 - Painel
-    > Inicio (com os atalhos mais usados)
+    > Inicio (com os atalhos mais usados, escolher)
     > Atualização (de plugins e do próprio wordpress)
 
 - Posts (artigos de notícias)
@@ -11,3 +11,6 @@
 
 - Otimização em massa
     > plugin 
+
+- Aparência
+    > tema (ativar apenas o tema filho)

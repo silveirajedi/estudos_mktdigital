@@ -73,20 +73,20 @@
 
 
 - Temas Importantes (set/2019):
-    > instalar o *Astra* e o *Astra child* (baixar astra child generator a ativar ele)
-
-    > é importante sempre ativar o tema filho por conta de atualização
+    > instalar o *Astra* (não ativar... pq ele é o tema principal) e o *Astra child* (baixar astra child generator no google enviar tema (zip) a ativar ele)
+     * é importante sempre ativar o tema filho por conta de atualização. Se caso atualizar o tema pai o filho não compromete
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
 - Plugins Importantes (set/2019):
-    > Editor Clássico (colocar editor de blocos, e permitir que usuários alternem entre editores)
+    > Editor Clássico [Ativar]
+     * Config / Colocar editor de blocos / Permitir que usuários alternem entre editores
 
-    > Microthemer
+    > Microthemer [Ativar]
 
-    > Gutenberg Blocks – Ultimate Addons for Gutenberg
+    > Gutenberg Blocks – Ultimate Addons for Gutenberg [Ativar]
 
     > Astra Widgets
 
@@ -99,6 +99,7 @@
     > WordPress SEO Plugin – Rank Math
 
     > Really Simple SSL
+     * só se o site não tiver o SSL nativo
 
     > UpdraftPlus WordPress Backup Plugin
 
