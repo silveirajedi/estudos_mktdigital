@@ -18,3 +18,17 @@
             > Cabeçalho Transparente (o fundo seria a imagem... alguns sites fazem isso)
         > Caminho de navegação (breadcrumbs... coisa véia...)
         > Barra Lateral (pra blog é legal... pra site tira!!!)
+        > Rodapé (configura e edita)
+        > Contêiner (configurar como os blocos são mostrados ou visualizados... em cada página eu posso configurar de uma maneira, A LARGURA DO CONTEINER PADRÃO 1200... 1300)
+    > Cores e Fundo (Paleta de cores)
+        > Cores base (cor tema, cor link)
+        > Caminho navegação (breadcrumbs)
+        > ...ler e testa tudo qual a melhor opção...
+    > Tipografia (FONTES, IMPORTANTÍSSIMO PLANEJAR ANTES)
+        > tem no google fonts tem no wordpress
+        > Conteúdo tamanho fontes h1 - h2 - h3 - h4 - h5 - h6 (140, 50, 36, 28, 22, 18)
+    > Botões
+    > Menu (vai aparecer como principal pq foi marcado antes)
+    > Condfiguração Página Principal
+        > uma página principal (colocar o HOME)
+    > CSS adicional - NÃO PRECISA DISSE POR CONTA DO MICROTHEMER
