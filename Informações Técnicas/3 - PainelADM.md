@@ -1,5 +1,6 @@
 - Painel
     > Inicio (com os atalhos mais usados, escolher)
+    
     > Atualização (de plugins e do próprio wordpress)
 
 - Posts (artigos de notícias)
