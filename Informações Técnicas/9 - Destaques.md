@@ -11,7 +11,7 @@ Aqui seria a página HOME com as informações principais
         - Sessão
             - Full Width
             - inner width (padrão 1200)
-            - Spacing(padding, magin...)
+            - Spacing(padding é bem importante para aparecer a imagem como um todo, ex: 250px)
             - background (imagem ou vídeo)
             - Centralizar
             - fixed (rolar com a imagem parada) 
