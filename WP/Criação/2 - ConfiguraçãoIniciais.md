@@ -2,6 +2,7 @@
     > Colocar título do site e descrição
 
     > Trocar http por https (ativar antes no provedor)
+    
     > Conta de e-mail (somente para configuração site... não é conta de envio)
 
     > Configurar outras informações (hora, data, etc)

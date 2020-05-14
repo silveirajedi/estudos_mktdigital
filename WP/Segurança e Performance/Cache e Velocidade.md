@@ -9,13 +9,20 @@
 - WP Super Cache
     > Ativar plugin
        - ligar cache
+
        - lembrete: sempre fazer as implemenbtações no site depois ativar o cache
+
        - Aba Avançado:
           - colocar os recomendados
+
           - cache cabeçalho http
+
           - tempo limite cache (36000)
+
           - ver as necessidades de atualização de cache
+
           - CDN (só se o seu provedor não tiver)
+          
           - PRÉ-CARGA (só os que tem bem poucas páginas)
 
 - W3 Total Cache

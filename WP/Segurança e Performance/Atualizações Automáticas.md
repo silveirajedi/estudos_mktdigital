@@ -4,7 +4,9 @@
 
    > Avançado
       - colocar horário de plugin (1 vez por dia 1h da manhã)
+
       - colocar horário de tema (1 vez por dia 2h da manhã)
+      
       ... enviar notificações
    
    > update filter

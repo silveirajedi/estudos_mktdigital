@@ -10,15 +10,21 @@
 
     > Políticas do usuário
       - para as autenticações de usuários dentro do wordpress
+
       - Global ()
+
       - Integridade do site (verificar se tem vírus no site) / Fazer configurações de acordo com a necessidade
 
     > AntiSpam
       - Modo seguro (ativar)
+
       - reCAPTCHA (não sou um robo, é melhor colocar pq senão não é protegido contra o spam)
         - Para fazer entra no site do reCAPTCHA (google)
+
         - colocar a v2
+
         - invisível
+        
         - copiar a chave do site e a chave secreta e coloca no wordpress Cerber
     
     > Cerber Hub (administra vários dominios dentro de um! Bem legal, mas dificil)

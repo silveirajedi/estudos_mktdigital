@@ -9,14 +9,22 @@
     > Cabeçalho
     - Identidade Site
         - colocar o logo; título logo; texto alternativo; descrição -- CEO options
+
         - colocar a largura real da imagem
+
         - tirar título / e qualquer descrição
+
         - colocar favicon... colocar a imagem de acordo com a especificação ver (?)
+
     - Cabeçalho Principal
         - layout topo (local que quer)
+
         - Colocar o botão no final pra deixar mais chamativo
+
         - ponto de quebra do menu (breakpoint para o mobile)
+
         - Personalizar o botão a meu gosto
+
     - Cabeçalho Transparente (o fundo seria a imagem... alguns sites fazem isso)
 
     > Caminho de navegação (breadcrumbs... coisa véia...)
@@ -30,11 +38,14 @@
     > Cores e Fundo (Paleta de cores)
 
     - Cores base (cor tema, cor link)
+
     - Caminho navegação (breadcrumbs)
+
     - ...ler e testa tudo qual a melhor opção...
 
     > Tipografia (FONTES, IMPORTANTÍSSIMO PLANEJAR ANTES)
     - tem no google fonts tem no wordpress
+    
     - Conteúdo tamanho fontes h1 - h2 - h3 - h4 - h5 - h6 (140, 50, 36, 28, 22, 18)
 
     > Botões

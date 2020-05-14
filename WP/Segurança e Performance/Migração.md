@@ -5,7 +5,9 @@
 - duplicator
     > Packages
        - nome;
+
        - storage (joga no drive, etc - vesão paga);
+       
        - ver as opções
 
 - enviar FTP (installer + arquive)
