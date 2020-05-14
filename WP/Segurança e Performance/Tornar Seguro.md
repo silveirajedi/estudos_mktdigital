@@ -1,7 +1,9 @@
 - Cerber plugin (segurança e antispam) (lembrar de desinstalar o HideLogin pra não conflitar)
     > Aba Configurações Principais (de acordo com a necessidade)
       - Mudar as tentativas de login
+
       - Posso habilitar um IP específico para o painel de controle
+      
       - Bloquear IP para o wp-login
     
     > Ver os logs depois pra ver como os BOTS fazem invasões :/
