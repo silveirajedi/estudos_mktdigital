@@ -92,3 +92,5 @@
     > Contact Form by WPForms – Drag & Drop Form Builder for WordPress
 
     > WPS Hide Login
+
+    > Simple Light Box (slideshow de imagem bonitinho)
