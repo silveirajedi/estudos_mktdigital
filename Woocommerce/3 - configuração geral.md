@@ -48,7 +48,7 @@
 
       - ABA CORREIOS
 
-        - Ativa o histórico de rastreamento se tiver a conta no correio [colocar usuário e senha do correio (?) ]
+        - Ativa o histórico de rastreamento se tiver a conta no correio [colocar usuário e senha do correio (?)]
 
         - Ativar auto preenchimento de endereços e validar CEP de 12 em 12 meses pq as vezes o CEP muda
 

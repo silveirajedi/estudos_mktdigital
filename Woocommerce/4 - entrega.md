@@ -26,6 +26,7 @@
 
 
           - Método (SEDEX) / Editar configurações básicas (IGUAL A DO PAC)
+          
           * importante em cada produto / entrega / colocar o peso e as dimensões para que o correio analise
 
           - Método (frete grátis) para quem coloca cupom de desconto / Editar
