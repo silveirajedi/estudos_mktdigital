@@ -1,3 +1,5 @@
+- https://www.youtube.com/watch?v=SNLwjkGZhxY&t=2909s
+
 > Instalar Wordpress
 
 > Plugin Hide Login
@@ -7,6 +9,8 @@
    - seguir os passos
 
 > Colocar o Tema [Astra / StoreFront]
+
+   - configuração total do tema
 
 > Configurações Woocomerce [Geral, Produtos, Emails, Contas e Privacidade, Integração, Avançado]
 
