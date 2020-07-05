@@ -1,5 +1,3 @@
-- https://www.youtube.com/watch?v=SNLwjkGZhxY&t=2909s
-
 > Instalar Wordpress
 
 > Plugin Hide Login
@@ -8,7 +6,7 @@
 
    - seguir os passos
 
-> Colocar o Tema [Astra / StoreFront]
+> Colocar o Tema [StoreFront / Astra]
 
    - configuração total do tema
 
@@ -16,5 +14,14 @@
 
 > Configurações / Pagamentos
 
+> Configurações / Entrega (plugin correios)
 
-...50 min...
+> Cadastro de Produtos (simples, variáveis)
+
+> Cadastro Cupons
+
+> Politica Privacidade
+
+> Termos de Condição
+
+> SEO

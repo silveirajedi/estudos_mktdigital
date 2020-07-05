@@ -20,4 +20,18 @@
 
        - prefixo pedido (caracteres que coloca no pedido) para ver no painel do pagseguro
 
-        ... ... ... não terminei de ver ... ... ... 
+    > Transferências Bancárias
+
+      - Ativar
+
+      - mudar título
+
+      - Descrição (na hora de comprar)
+
+      - Instrução (depois que eu der o checkout, colocar aqui o CPF ou CNPF, e falar que só vai confirmar quando verificar o depósito)
+
+      - Colocar a conta no Detalhes 
+
+    > Pagamento na Entrega
+
+      - Colocar as descrições que eu achar necessário
