@@ -16,9 +16,11 @@
 
 > Configurações / Entrega (plugin correios)
 
-> Cadastro de Produtos (simples, variáveis)
+> Cadastro de Produtos (simples, variáveis, marcas)
 
 > Cadastro Cupons
+
+> E-mails
 
 > Politica Privacidade
 

@@ -11,7 +11,7 @@
     > PagSeguro for woocommerce (claudio sanches)
       - Essencial
 
-    > Perferct woocommerce brands
+    > Perferct brands for woocommerce
       - não essencial (listagem por marcas)
 
     > Yith wishlist
