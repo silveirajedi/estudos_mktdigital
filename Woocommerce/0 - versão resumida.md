@@ -12,6 +12,8 @@
 
 > Configurações Woocomerce [Geral, Produtos, Emails, Contas e Privacidade, Integração, Avançado]
 
+> Plugins Gerais
+
 > Configurações / Pagamentos
 
 > Configurações / Entrega (plugin correios)
@@ -20,7 +22,7 @@
 
 > Cadastro Cupons
 
-> E-mails
+> E-mails Templates
 
 > Politica Privacidade
 

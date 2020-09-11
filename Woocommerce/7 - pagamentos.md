@@ -35,3 +35,21 @@
     > Pagamento na Entrega
 
       - Colocar as descrições que eu achar necessário
+
+    > MERCADO PAGO
+
+      - Instalar o plugin 
+
+      - Teste primeiro ao invés de já ir jogando para produção
+
+      - Buscar as credenciais (Copiar a Public Key e o Access token - de teste ou de produção) e copiar elas no sistema
+
+      - Demora para homologar a conta
+
+      - Configurar como vai sair na fatura do cliente
+
+      - Ativar o checkout da loja (não converter moeda)
+
+      - Não ativar o desconto (pq o desconto será do woocommerce)
+
+      - 

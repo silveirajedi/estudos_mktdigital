@@ -1,3 +1,5 @@
+NÃO PRECISA MAIS...
+
 - Companion Auto update
     > Selecionar a opção de atualização 
       - colocar e-mail se quiser atualizar
