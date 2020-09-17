@@ -33,3 +33,13 @@
        - Colocar os atributos
        - Colocar as variações
        - Fazer o procedimento para todas as variações de produtos
+
+   > Grupo de Produtos
+
+       - colocar grupo de produtos
+       - depois escolher os produtos pré cadastrados
+
+    > Produto Virtual
+       - Produto Simples
+       - Virtual (não vai entregar)
+       - Baixar (Download)

@@ -51,5 +51,3 @@
       - Ativar o checkout da loja (não converter moeda)
 
       - Não ativar o desconto (pq o desconto será do woocommerce)
-
-      - 
