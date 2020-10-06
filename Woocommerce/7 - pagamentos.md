@@ -51,3 +51,5 @@
       - Ativar o checkout da loja (não converter moeda)
 
       - Não ativar o desconto (pq o desconto será do woocommerce)
+
+      - TESTES de cartões: https://www.mercadopago.com.br/developers/pt/

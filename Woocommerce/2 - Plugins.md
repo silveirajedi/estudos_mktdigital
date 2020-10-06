@@ -22,3 +22,6 @@
 
     > WooCommerce Cart Abandonment Recorery
       - não essencial (quando coloca no carrinho mas sai e a loja enviar e-mail)
+
+    > BC Menu Cart
+      - não essencial (muda o ícone do carrinho para ficar mais bonitinho)   
