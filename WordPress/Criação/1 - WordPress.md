@@ -94,3 +94,6 @@
     > WPS Hide Login
 
     > Simple Light Box (slideshow de imagem bonitinho)
+
+    > Gutentor – Gutenberg Blocks [novo] [08/10/2020]
+     * muito bom para poder usar no wordpress principalmente pela opção Template Library
